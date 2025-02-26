@@ -27,4 +27,6 @@ Fields include name, email, and message to facilitate communication.
 
 
 What did I learn?
+
+
 I learned that it takes a lot of patience and problem-solving to design a webpage, especially when it comes to making sure all elements are properly aligned and responsive across different devices. Throughout the project, I encountered various challenges such as ensuring the layout looked consistent and functional using Flexbox, as well as troubleshooting CSS styling issues. Despite these hurdles, I found that the process of designing and developing the webpage was incredibly rewarding. I enjoyed working on this project because it allowed me to creatively showcase my skills, and I gained a deeper understanding of how web design principles come together to create a polished, professional site.
