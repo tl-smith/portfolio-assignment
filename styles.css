@@ -1,0 +1,153 @@
+
+body{
+background-color: pink;
+/* height: auto; */
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+h1, h2{
+   margin-top: 50px;
+   font-size: 30px;
+   font-family: cursive;
+}
+
+/*below is the navigation section*/
+.topnav{
+   display: flex;
+   justify-content: space-between;
+   /* background: hotpink; */
+   
+   
+
+   /* position: fixed;
+   top: 0;
+   width: 50%;
+   margin: 0; */
+
+ 
+}
+
+
+
+.left-links,.right-links  { 
+   list-style-type: none; 
+   display: flex;   
+   justify-content: space-evenly;
+   gap: 30px;  
+   
+ 
+   
+   
+}
+
+a  {
+   text-decoration: none;
+   color: black;
+  
+}
+
+/* nav ul {
+   list-style: none;
+   padding: 0;
+   background: #0EBF1A;
+   overflow: hidden;
+   color: white;
+   display: flex;
+   justify-content: center;
+}
+nav ul li {
+   padding: 15px;
+}
+nav ul li a {
+   color: white;
+   text-decoration: none; */
+
+/*below is professional headshot and brief self statement section*/
+
+
+.name{
+   font-family: cursive;
+   text-align: center;
+   font-size: 50px;
+
+   }
+
+ .container {
+   display: flex;
+   align-items: center;
+   justify-content: center
+
+   
+
+ }
+ 
+ .green {
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+  
+ }
+ 
+ .text {
+   font-size: 20px;
+   padding-left: 20px;
+   width: 500px;
+ }
+.headshot{
+ 
+  padding: 50px;
+  margin: 20px;
+}
+
+/*below is the About Me and skills section*/
+.about-me {
+   font-size: 20px;
+}
+
+.skills li {
+   font-size: 20px;
+}
+
+button{
+   font-size: 15px;
+   margin-left: 25px;
+}
+
+/*below is the projects section*/
+.one .two .three{
+  padding-top: 50px;
+  padding-bottom: 50px;;
+}
+.projects{
+   display: flex;
+   align-content: center;
+   gap: 40px;
+   text-align: center;
+
+}
+
+
+
+/*below is the contact section*/
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline
+
+}
+
+/*below is the footer section*/
+
+footer{
+   display: flex;
+   justify-content: flex-end;
+   align-items: flex-end;
+   
+}
+
+
+
+
